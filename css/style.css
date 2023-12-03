@@ -1231,6 +1231,10 @@ img.jarallax-img.kenburns-2 {
   }
 }
 
+.hidden {
+  display: hidden;
+}
+
 a.box_cat_rooms {
   display: block;
   margin-bottom: 25px;

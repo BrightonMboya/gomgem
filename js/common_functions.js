@@ -3,11 +3,11 @@
 	"use strict";
 	
 	// Preload
-	$(window).on('load', function () { // makes sure the whole site is loaded
-		$('[data-loader="circle-side"]').fadeOut(); // will first fade out the loading animation
-		$('#preloader').addClass('loaded');
-		$('.animate_hero').addClass('is-transitioned');
-	})
+	// $(window).on('load', function () { // makes sure the whole site is loaded
+	// 	$('[data-loader="circle-side"]').fadeOut(); // will first fade out the loading animation
+	// 	$('#preloader').addClass('loaded');
+	// 	$('.animate_hero').addClass('is-transitioned');
+	// })
 
 	// Sticky Header
 	$(window).on('scroll', function () {

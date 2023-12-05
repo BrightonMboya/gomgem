@@ -1482,9 +1482,8 @@ a.box_cat_rooms:hover .background-image {
 
 .box_overlay {
   background-color: #24262d;
-  background-color: #24262d;
-  padding: 45px 45px 45px 225px;
-  min-height: 170px;
+  padding: 45px 45px;
+  min-height: 100px;
   color: #fff;
   position: relative;
   margin-bottom: 20px;
@@ -1550,8 +1549,8 @@ a.box_cat_rooms:hover .background-image {
 }
 
 .comment {
-  border-left: 1px solid rgba(255, 255, 255, 0.3);
-  padding-left: 30px;
+  /* border-left: 1px solid rgba(255, 255, 255, 0.3); */
+  /* padding-left: 30px; */
   font-size: 18px;
   font-size: 1.125rem;
   font-style: italic;
